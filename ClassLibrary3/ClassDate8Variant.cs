@@ -14,8 +14,7 @@ namespace ClassLibaryTPO8VAR
             if (date == null)
             {
                 date = DateTime.Now;
-            }
-            
+            } 
         }
     }
 }
