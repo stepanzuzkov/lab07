@@ -1,7 +1,5 @@
 ﻿using System;
 
-
-
 namespace ClassLibaryTPO8VAR
 {
     public class Smena
